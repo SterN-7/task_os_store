@@ -1,0 +1,9 @@
+{
+    "id": "hello",
+    "name": "Hello World",
+    "version": "1.0.0",
+    "author": "ai",
+    "description": "Первое приложение для task.os",
+    "entry": "code",
+    "icon": "ico.png"
+}
